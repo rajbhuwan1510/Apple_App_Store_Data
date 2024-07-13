@@ -40,5 +40,3 @@
 - **Quote:** A notable quote about the impact of the App Store on the tech industry.
 
 ---
-
-This slide provides a clear and structured introduction to your project using the STAR methodology, outlining the situation, task, actions taken, and the expected results of your EDA on Apple App Store data using SQL.
