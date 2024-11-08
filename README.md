@@ -1,4 +1,4 @@
-### Slide 2: Introduction
+### Introduction
 
 ---
 
